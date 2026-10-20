@@ -36,7 +36,10 @@ Based in Batumi 🇬🇪 · Remote · Russian (native), English (professional)
 
 | Project | What it is |
 |---|---|
-| [**mle-project-sprint-1**](https://github.com/liliya-ily/mle-project-sprint-1-v001-main) | Apartment price estimation: Airflow ETL, DVC pipeline, CatBoost model with cross-validation, artifacts in S3. |
+| [**mle-pr-final-main**](https://github.com/liliya-ily/mle-pr-final-main) | Bank product recommender: ALS candidates + CatBoost ranker, MLflow tracking and Model Registry, FastAPI service with Prometheus and Grafana monitoring, pytest tests, Docker setup. |
+| [**mle-uplift-final-project-2025-main**](https://github.com/liliya-ily/mle-uplift-final-project-2025-main) | Uplift modeling: whom to offer a promo code to. Meta-learners, uplift trees, Optuna tuning, evaluation with Qini and uplift curves. |
+| [**mle-project-sprint-4-v001-main**](https://github.com/liliya-ily/mle-project-sprint-4-v001-main) | Music recommender: top-popular, ALS and CatBoost ranking behind an async FastAPI service. |
+| [**mle-project-sprint-1-v001-main**](https://github.com/liliya-ily/mle-project-sprint-1-v001-main) | Apartment price estimation: Airflow ETL, DVC pipeline, CatBoost model with cross-validation. |
 | [**ds-docker-template**](https://github.com/liliya-ily/ds-docker-template) | Reproducible DS/ML environment: Docker, Jupyter, MLflow and VS Code Dev Containers. |
 | [**recipe_cocktails**](https://github.com/liliya-ily/recipe_cocktails) | Conditional cocktail recipe generation with GPT-2. Yes, it invents drinks. |
 
