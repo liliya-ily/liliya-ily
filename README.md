@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=header&text=Hi%2C%20I'm%20Liliya&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hi, I'm Liliya"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=header&text=Night%20Watch%20for%20data%20pipelines&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" alt="Night Watch for data pipelines"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=520&lines=Data+Scientist+%C2%B7+Data+Analyst;Do+it+properly%2C+and+the+rest+will+follow;Pipelines+that+fall+down+and+get+back+up+%F0%9F%90%95" alt="Typing intro"/>
