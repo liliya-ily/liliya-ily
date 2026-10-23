@@ -34,12 +34,15 @@ Based in Batumi 🇬🇪 · Remote · Russian (native), English (professional)
 
 ## 📌 Selected projects
 
+The `practicum-*` repositories are Yandex Practicum course projects (topic `yandex-practicum`), numbered in course order.
+
 | Project | What it is |
 |---|---|
-| [**mle-pr-final-main**](https://github.com/liliya-ily/mle-pr-final-main) | Bank product recommender: ALS candidates + CatBoost ranker, MLflow tracking and Model Registry, FastAPI service with Prometheus and Grafana monitoring, pytest tests, Docker setup. |
-| [**mle-uplift-final-project-2025-main**](https://github.com/liliya-ily/mle-uplift-final-project-2025-main) | Uplift modeling: whom to offer a promo code to. Meta-learners, uplift trees, Optuna tuning, evaluation with Qini and uplift curves. |
-| [**mle-project-sprint-4-v001-main**](https://github.com/liliya-ily/mle-project-sprint-4-v001-main) | Music recommender: top-popular, ALS and CatBoost ranking behind an async FastAPI service. |
-| [**mle-project-sprint-1-v001-main**](https://github.com/liliya-ily/mle-project-sprint-1-v001-main) | Apartment price estimation: Airflow ETL, DVC pipeline, CatBoost model with cross-validation. |
+| [**practicum-s6-bank-product-recsys**](https://github.com/liliya-ily/practicum-s6-bank-product-recsys) | Bank product recommender: ALS candidates + CatBoost ranker, MAP@5 for customers with a new product up from 0.54 to 0.78 against the baseline. MLflow tracking and Model Registry, FastAPI service with Prometheus and Grafana monitoring, pytest tests, Docker setup. |
+| [**practicum-s5-uplift-promo**](https://github.com/liliya-ily/practicum-s5-uplift-promo) | Uplift modeling: whom to offer a promo code to. UpliftRandomForest, S- and T-learner compared by Uplift@30, Qini and Uplift AUC, stability checked with cross-validation. |
+| [**practicum-s4-music-recsys**](https://github.com/liliya-ily/practicum-s4-music-recsys) | Music recommender: top-popular, ALS and CatBoost ranking behind an async FastAPI service; NDCG@10 up from 0.012 to 0.043 against ALS. |
+| [**practicum-s2-apartment-price-mlflow**](https://github.com/liliya-ily/practicum-s2-apartment-price-mlflow) | Apartment price model improved through feature engineering, feature selection and Optuna tuning: RMSE down 22.8%, experiments tracked in MLflow with Model Registry. |
+| [**practicum-s1-apartment-price-pipeline**](https://github.com/liliya-ily/practicum-s1-apartment-price-pipeline) | Apartment price estimation: Airflow ETL, DVC pipeline, CatBoost model with cross-validation. |
 | [**ds-docker-template**](https://github.com/liliya-ily/ds-docker-template) | Reproducible DS/ML environment: Docker, Jupyter, MLflow and VS Code Dev Containers. |
 | [**recipe_cocktails**](https://github.com/liliya-ily/recipe_cocktails) | Conditional cocktail recipe generation with GPT-2. Yes, it invents drinks. |
 
